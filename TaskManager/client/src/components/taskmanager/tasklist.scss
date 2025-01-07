@@ -1,0 +1,16 @@
+.list-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 90%;
+    background-color: rgb(145, 145, 238);
+    padding: 1rem;
+    color: white;
+    li{
+        flex: 1;
+    }
+    h5{
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(4, 6, 138, 0.753);
+    align-items: center;
+    height: 70px;
+    padding: 0 20px;
+
+    &__logo {
+        h5 {
+            color: white;
+            font-weight: 300;
+        }
+    }
+
+    .button {
+        background-color: white;
+
+    }
+
+
+}
